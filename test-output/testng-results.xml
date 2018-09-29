@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Indigotest" duration-ms="60249" started-at="2018-09-11T13:21:17Z" finished-at="2018-09-11T13:22:17Z">
+    <groups>
+    </groups>
+    <test name="IndigoTestcases" duration-ms="60249" started-at="2018-09-11T13:21:17Z" finished-at="2018-09-11T13:22:17Z">
+      <class name="com.indigo.qa.testcases.Giftvouchertest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.indigo.qa.testcases.Giftvouchertest@17cd7a0]" name="setup" is-config="true" duration-ms="7502" started-at="2018-09-11T13:21:40Z" finished-at="2018-09-11T13:21:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="giftvouchertest()[pri:0, instance:com.indigo.qa.testcases.Giftvouchertest@17cd7a0]" name="giftvouchertest" duration-ms="2921" started-at="2018-09-11T13:21:48Z" finished-at="2018-09-11T13:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftvouchertest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.indigo.qa.testcases.Giftvouchertest@17cd7a0]" name="teardown" is-config="true" duration-ms="611" started-at="2018-09-11T13:21:51Z" finished-at="2018-09-11T13:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.indigo.qa.testcases.Giftvouchertest -->
+      <class name="com.indigo.qa.testcases.Especialtest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.indigo.qa.testcases.Especialtest@67ae56]" name="setup" is-config="true" duration-ms="8074" started-at="2018-09-11T13:21:17Z" finished-at="2018-09-11T13:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="premiumtexttest()[pri:0, instance:com.indigo.qa.testcases.Especialtest@67ae56]" name="premiumtexttest" duration-ms="3130" started-at="2018-09-11T13:21:25Z" finished-at="2018-09-11T13:21:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- premiumtexttest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.indigo.qa.testcases.Especialtest@67ae56]" name="teardown" is-config="true" duration-ms="605" started-at="2018-09-11T13:21:28Z" finished-at="2018-09-11T13:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.indigo.qa.testcases.Especialtest@67ae56]" name="setup" is-config="true" duration-ms="7502" started-at="2018-09-11T13:21:29Z" finished-at="2018-09-11T13:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="specialvouchertest()[pri:0, instance:com.indigo.qa.testcases.Especialtest@67ae56]" name="specialvouchertest" duration-ms="3161" started-at="2018-09-11T13:21:36Z" finished-at="2018-09-11T13:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specialvouchertest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.indigo.qa.testcases.Especialtest@67ae56]" name="teardown" is-config="true" duration-ms="614" started-at="2018-09-11T13:21:40Z" finished-at="2018-09-11T13:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.indigo.qa.testcases.Especialtest -->
+      <class name="com.indigo.qa.testcases.Bookingpagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.indigo.qa.testcases.Bookingpagetest@25b2fe]" name="setup" is-config="true" duration-ms="8487" started-at="2018-09-11T13:22:03Z" finished-at="2018-09-11T13:22:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="bookflight()[pri:0, instance:com.indigo.qa.testcases.Bookingpagetest@25b2fe]" name="bookflight" duration-ms="5553" started-at="2018-09-11T13:22:11Z" finished-at="2018-09-11T13:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookflight -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.indigo.qa.testcases.Bookingpagetest@25b2fe]" name="teardown" is-config="true" duration-ms="734" started-at="2018-09-11T13:22:17Z" finished-at="2018-09-11T13:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.indigo.qa.testcases.Bookingpagetest -->
+      <class name="com.indigo.qa.testcases.spclvouchertest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.indigo.qa.testcases.spclvouchertest@4f30ec]" name="setup" is-config="true" duration-ms="10668" started-at="2018-09-11T13:21:51Z" finished-at="2018-09-11T13:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="vochertexttest()[pri:0, instance:com.indigo.qa.testcases.spclvouchertest@4f30ec]" name="vochertexttest" duration-ms="33" started-at="2018-09-11T13:22:02Z" finished-at="2018-09-11T13:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vochertexttest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.indigo.qa.testcases.spclvouchertest@4f30ec]" name="teardown" is-config="true" duration-ms="612" started-at="2018-09-11T13:22:02Z" finished-at="2018-09-11T13:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.indigo.qa.testcases.spclvouchertest -->
+    </test> <!-- IndigoTestcases -->
+  </suite> <!-- Indigotest -->
+</testng-results>

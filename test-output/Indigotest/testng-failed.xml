@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Indigotest]">
+  <test thread-count="5" name="IndigoTestcases(failed)">
+    <classes>
+      <class name="com.indigo.qa.testcases.Especialtest">
+        <methods>
+          <include name="setup"/>
+          <include name="premiumtexttest"/>
+          <include name="specialvouchertest"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.indigo.qa.testcases.Especialtest -->
+      <class name="com.indigo.qa.testcases.spclvouchertest">
+        <methods>
+          <include name="teardown"/>
+          <include name="vochertexttest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.indigo.qa.testcases.spclvouchertest -->
+      <class name="com.indigo.qa.testcases.Giftvouchertest">
+        <methods>
+          <include name="teardown"/>
+          <include name="giftvouchertest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.indigo.qa.testcases.Giftvouchertest -->
+    </classes>
+  </test> <!-- IndigoTestcases(failed) -->
+</suite> <!-- Failed suite [Indigotest] -->

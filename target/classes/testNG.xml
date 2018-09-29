@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Indigotest">
+ 
+  <test name="IndigoTestcasescrome">
+    <classes>
+      <class name="com.indigo.qa.testcases.Homepagetest"></class>
+      <class name="com.indigo.qa.testcases.Especialtest"></class>
+      <class name="com.indigo.qa.testcases.Giftvouchertest"></class>
+      <class name="com.indigo.qa.testcases.spclvouchertest"></class>
+      <class name="com.indigo.qa.testcases.Bookingpagetest"></class>
+      
+    </classes>
+   
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
